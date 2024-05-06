@@ -1,0 +1,10 @@
+payload:
+  - '+.bitwarden.com'
+  - '+.bitwarden.net'
+  - '+.paofu.cloud'
+  - '+.mojie.live'
+  - '+.addons.mozilla.org'
+  - '+.x.com'
+  - '+.postman.co'
+  - '+.getpostman.com'
+  - '+.vercel.com'

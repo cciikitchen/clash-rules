@@ -1,0 +1,7 @@
+payload:
+  - '+.openai.com'
+  - '+.chatgpt.com'
+  - '+.perplexity.ai'
+  - '+.revenuecat.com'
+  - '+.crashlytics.com'
+  - '+.pki.goog'
