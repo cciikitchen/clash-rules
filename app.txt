@@ -6,5 +6,6 @@ payload:
   - '+.addons.mozilla.org'
   - '+.x.com'
   - '+.postman.co'
+  - '+.raycast.com'
   - '+.getpostman.com'
   - '+.vercel.com'
