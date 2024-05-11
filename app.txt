@@ -9,3 +9,4 @@ payload:
   - '+.raycast.com'
   - '+.getpostman.com'
   - '+.vercel.com'
+  - '+.proton.me'
