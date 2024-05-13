@@ -5,4 +5,3 @@ payload:
   - '+.revenuecat.com'
   - '+.crashlytics.com'
   - '+.pki.goog'
-  - '+.lobehub.com'
