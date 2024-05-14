@@ -11,3 +11,7 @@ payload:
   - '+.vercel.com'
   - '+.proton.me'
   - '+.sms-activate.org'
+  - '+.surveymonkey.com'
+  - '+.typeform.com'
+  - '+.qualtrics.com'
+  - '+.videoask.com'
