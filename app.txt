@@ -12,6 +12,7 @@ payload:
   - '+.proton.me'
   - '+.sms-activate.org'
   - '+.dribbble.com'
+  - '+.behance.net'
   - '+.surveymonkey.com'
   - '+.typeform.com'
   - '+.qualtrics.com'
