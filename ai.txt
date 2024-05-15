@@ -5,3 +5,6 @@ payload:
   - '+.revenuecat.com'
   - '+.crashlytics.com'
   - '+.pki.goog'
+  - '+.oaistatic.com'
+  - '+.extension.aitdk.com'
+  - '+.www-unite-ai.webpkgcache.com'
