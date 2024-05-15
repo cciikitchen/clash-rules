@@ -1,3 +1,2 @@
 payload:
   - '+.cciitube.cn'
-  - '+.clientstream.launchdarkly.com'
