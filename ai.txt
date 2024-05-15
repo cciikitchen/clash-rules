@@ -6,6 +6,4 @@ payload:
   - '+.crashlytics.com'
   - '+.pki.goog'
   - '+.oaistatic.com'
-  - '+.aitdk.com'
-  - '+.oaistatic.com'
-  - '+.webpkgcache.com'
+  - '+.intercom.io'
