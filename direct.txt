@@ -1,4 +1,0 @@
-payload:
-  - '+.clash.razord.top'
-  - '+.yacd.haishan.me'
-  - '+.shimo.im'
