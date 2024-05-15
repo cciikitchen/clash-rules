@@ -1,0 +1,5 @@
+payload:
+  - '+.clash.razord.top'
+  - '+.yacd.haishan.me'
+  - '+.cciitube.cn'
+  - '+.clientstream.launchdarkly.com'
