@@ -6,5 +6,6 @@ payload:
   - '+.crashlytics.com'
   - '+.pki.goog'
   - '+.oaistatic.com'
-  - '+.extension.aitdk.com'
-  - '+.www-unite-ai.webpkgcache.com'
+  - '+.aitdk.com'
+  - '+.oaistatic.com'
+  - '+.webpkgcache.com'
