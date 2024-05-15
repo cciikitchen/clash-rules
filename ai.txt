@@ -2,6 +2,8 @@ payload:
   - '+.openai.com'
   - '+.chatgpt.com'
   - '+.perplexity.ai'
+  - '+.anthropic.com'
   - '+.revenuecat.com'
   - '+.crashlytics.com'
   - '+.pki.goog'
+  - '+.open-ai-chat-omega.vercel.app'
