@@ -17,3 +17,5 @@ payload:
   - '+.typeform.com'
   - '+.qualtrics.com'
   - '+.videoask.com'
+  - '+.cookielaw.org'
+  - '+.launchdarkly.com'
