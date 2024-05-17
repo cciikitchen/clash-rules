@@ -1,3 +1,4 @@
 payload:
   - '+.anthropic.com'
   - '+.open-ai-chat-omega.vercel.app'
+  - '+.launchdarkly.com'
