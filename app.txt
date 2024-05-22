@@ -17,3 +17,4 @@ payload:
   - '+.typeform.com'
   - '+.qualtrics.com'
   - '+.videoask.com'
+  - '+.macosicons.com'
