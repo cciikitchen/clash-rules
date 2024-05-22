@@ -18,4 +18,3 @@ payload:
   - '+.qualtrics.com'
   - '+.videoask.com'
   - '+.macosicons.com'
-  - '+.github.dev'
