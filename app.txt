@@ -19,3 +19,5 @@ payload:
   - '+.videoask.com'
   - '+.macosicons.com'
   - '+.visualstudio.com'
+  - '+.azure.com'
+  - '+.azure.net'
