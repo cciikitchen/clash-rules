@@ -8,3 +8,4 @@ payload:
   - '+.pki.goog'
   - '+.oaistatic.com'
   - '+.intercom.io'
+  - '+.pika.art'
