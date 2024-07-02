@@ -21,3 +21,4 @@ payload:
   - '+.visualstudio.com'
   - '+.azure.com'
   - '+.azure.net'
+  - '+.inkscape.org'
