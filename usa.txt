@@ -3,4 +3,5 @@ payload:
   - '+.launchdarkly.com'
   - '+.lobe.cciitube.cn'
   - '+.next.cciitube.cn'
+  - '+.vidol.cciitube.cn'
   - '+.vercel.app'
