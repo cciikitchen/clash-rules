@@ -7,5 +7,6 @@ payload:
   - '+.openai.com'
   - '+.perplexity.ai'
   - '+.pika.art'
+  - '+.prodregistryv2.org'
   - '+.pki.goog'
   - '+.revenuecat.com'
