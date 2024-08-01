@@ -3,6 +3,7 @@ payload:
   - '+.launchdarkly.com'
   - '+.lobe.cciitube.cn'
   - '+.next.cciitube.cn'
+  - '+.qualtrics.com'
   - '+.surveymonkey.com'
   - '+.vidol.cciitube.cn'
   - '+.vercel.app'
