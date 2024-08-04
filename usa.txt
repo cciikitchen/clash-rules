@@ -1,5 +1,6 @@
 payload:
   - '+.anthropic.com'
+  - '+.claude.ai'
   - '+.launchdarkly.com'
   - '+.lobe.cciitube.cn'
   - '+.next.cciitube.cn'
