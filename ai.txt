@@ -10,3 +10,4 @@ payload:
   - '+.prodregistryv2.org'
   - '+.pki.goog'
   - '+.revenuecat.com'
+  - '+.talkie-ai.com'
