@@ -7,6 +7,7 @@ payload:
   - '+.next.cciitube.cn'
   - '+.qualtrics.com'
   - '+.surveymonkey.com'
+  - '+.stripe.com'
   - '+.upstash.com'
   - '+.vidol.cciitube.cn'
   - '+.vercel.app'
