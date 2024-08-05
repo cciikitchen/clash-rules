@@ -24,3 +24,4 @@ payload:
   - '+.vercel.com'
   - '+.visualstudio.com'
   - '+.x.com'
+  - '+.z-library.rs'
