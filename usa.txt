@@ -2,6 +2,7 @@ payload:
   - '+.anthropic.com'
   - '+.awswaf.com'
   - '+.claude.ai'
+  - '+.googleapis.com'
   - '+.launchdarkly.com'
   - '+.lobe.cciitube.cn'
   - '+.next.cciitube.cn'
