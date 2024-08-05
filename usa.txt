@@ -12,3 +12,4 @@ payload:
   - '+.upstash.com'
   - '+.vidol.cciitube.cn'
   - '+.vercel.app'
+  - '+.volces.com'
