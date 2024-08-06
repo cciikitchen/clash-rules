@@ -1,6 +1,7 @@
 payload:
   - '+.chatgpt.com'
   - '+.crashlytics.com'
+  - '+.framerusercontent.com'
   - '+.gemini.google.com'
   - '+.intercom.io'
   - '+.oaistatic.com'
