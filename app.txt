@@ -7,6 +7,7 @@ payload:
   - '+.bitwarden.net'
   - '+.dribbble.com'
   - '+.getpostman.com'
+  - '+.gstatic.com'
   - '+.inkscape.org'
   - '+.mojie.live'
   - '+.macosicons.com'
