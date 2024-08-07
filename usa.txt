@@ -4,8 +4,6 @@ payload:
   - '+.claude.ai'
   - '+.googleapis.com'
   - '+.launchdarkly.com'
-  - '+.lobe.cciitube.cn'
-  - '+.next.cciitube.cn'
   - '+.qualtrics.com'
   - '+.surveymonkey.com'
   - '+.stripe.com'
