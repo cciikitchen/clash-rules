@@ -26,3 +26,4 @@ payload:
   - '+.visualstudio.com'
   - '+.x.com'
   - '+.z-library.rs'
+  - '+.128100.xyz'
