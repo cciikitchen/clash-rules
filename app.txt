@@ -16,6 +16,7 @@ payload:
   - '+.macosicons.com'
   - '+.nexusmods.com'
   - '+.nexus-cdn.com'
+  - '+.nexitallysafe.com'
   - '+.naiixi.com'
   - '+.paofu.cloud'
   - '+.postman.co'
