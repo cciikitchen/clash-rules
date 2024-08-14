@@ -3,6 +3,7 @@ payload:
   - '+.awswaf.com'
   - '+.claude.ai'
   - '+.googleapis.com'
+  - '+.icons8.com'
   - '+.launchdarkly.com'
   - '+.qualtrics.com'
   - '+.surveymonkey.com'
