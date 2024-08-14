@@ -4,6 +4,7 @@ payload:
   - '+.claude.ai'
   - '+.googleapis.com'
   - '+.icons8.com'
+  - '+.igoutu.cn'
   - '+.launchdarkly.com'
   - '+.qualtrics.com'
   - '+.surveymonkey.com'
