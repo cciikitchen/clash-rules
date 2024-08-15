@@ -13,6 +13,7 @@ payload:
   - '+.kuromis.com'
   - '+.mojie.live'
   - '+.macosicons.com'
+  - '+.metacubex.one'
   - '+.nexusmods.com'
   - '+.nexus-cdn.com'
   - '+.nexitallysafe.com'
