@@ -6,6 +6,7 @@ payload:
   - '+.behance.net'
   - '+.bitwarden.com'
   - '+.bitwarden.net'
+  - '+.clerk.com'
   - '+.dribbble.com'
   - '+.flowercloud.net'
   - '+.getpostman.com'
