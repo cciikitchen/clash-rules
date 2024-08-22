@@ -30,6 +30,7 @@ payload:
   - '+.supabase.com'
   - '+.typeform.com'
   - '+.to-ytoo.xyz'
+  - '+.upstash.com'
   - '+.videoask.com'
   - '+.vercel.com'
   - '+.visualstudio.com'
