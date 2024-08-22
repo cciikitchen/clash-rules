@@ -10,7 +10,6 @@ payload:
   - '+.surveymonkey.com'
   - '+.stripe.com'
   - '+.stripe.network'
-  - '+.upstash.com'
   - '+.vidol.cciitube.cn'
   - '+.vercel.app'
   - '+.volces.com'
