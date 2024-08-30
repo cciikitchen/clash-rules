@@ -2,6 +2,7 @@ payload:
   - '+.anthropic.com'
   - '+.awswaf.com'
   - '+.claude.ai'
+  - '+.firebaseapp.com'
   - '+.googleapis.com'
   - '+.icons8.com'
   - '+.igoutu.cn'
