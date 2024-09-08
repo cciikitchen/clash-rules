@@ -3,6 +3,7 @@ payload:
   - '+.azure.com'
   - '+.azure.net'
   - '+.amytele.net'
+  - '+.back4app.com'
   - '+.behance.net'
   - '+.bitwarden.com'
   - '+.bitwarden.net'
