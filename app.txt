@@ -9,6 +9,7 @@ payload:
   - '+.bitwarden.net'
   - '+.clerk.com'
   - '+.ciciai.com'
+  - '+.cciitube.cn'
   - '+.dribbble.com'
   - '+.flowercloud.net'
   - '+.getpostman.com'
