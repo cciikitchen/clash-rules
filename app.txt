@@ -27,6 +27,7 @@ payload:
   - '+.paofu.cloud'
   - '+.postman.co'
   - '+.proton.me'
+  - '+.patreonusercontent.com'
   - '+.qualtrics.com'
   - '+.raycast.com'
   - '+.sms-activate.org'
