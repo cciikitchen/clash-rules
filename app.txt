@@ -16,6 +16,7 @@ payload:
   - '+.getpostman.com'
   - '+.inkscape.org'
   - '+.kuromis.com'
+  - '+.kb199.com'
   - '+.mojie.live'
   - '+.macosicons.com'
   - '+.metacubex.one'
