@@ -47,3 +47,4 @@ payload:
   - '+.z-library.rs'
   - '+.128100.xyz'
   - '+.500px.com'
+  - '+.500px.org'
